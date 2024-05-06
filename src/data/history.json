@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Web Developer",
+      "organization": "RickCase Honda",
+      "startDate": "Aug, 2021",
+      "endDate": "Present",
+      "experiences": ["Created AutoAid Tracker", "Implemented CRM"],
+      "imageSrc": "history/rickcase.png"
+    },
+    {
+      "role": "UI Designer",
+      "organization": "RickCase Honda",
+      "startDate": "Aug, 2021",
+      "endDate": "Present",
+      "experiences": ["Designed the UI of Auto Aid Tracker", "Designed the control panel"],
+      "imageSrc": "history/rickcase.png"
+    },
+    {
+      "role": "Backend",
+      "organization": "RickCase Honda",
+      "startDate": "Aug, 2021",
+      "endDate": "Present",
+      "experiences": [
+        "Designed backend of Auto Aid Tracker"
+      ],
+      "imageSrc": "history/rickcase.png"
+    }
+  ]
+  

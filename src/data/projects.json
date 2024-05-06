@@ -1,0 +1,27 @@
+[
+    {
+      "title": "AutoAid Tracker",
+      "imageSrc": "projects/autoAidTracker.png",
+      "description": "simplify the way service centers interact with their clients ",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://autoaid-tracker-2e1109042824.herokuapp.com/dashboard",
+      "source": "https://github.com/andersonasprilla/Car-Service-CRM"
+    },
+    {
+      "title": "Soccer Stadium Finder",
+      "imageSrc": "projects/soccerFinder.png",
+      "description": "allows users to search for soccer stadiums in the United States ",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://andersonasprilla.github.io/Soccer-Stadiums-Finder/",
+      "source": "https://github.com/andersonasprilla/Soccer-Stadiums-Finder/tree/main?tab=readme-ov-file"
+    },
+    {
+      "title": "Weather Dashboard",
+      "imageSrc": "projects/weatherDashboard.png",
+      "description": "provides users with current weather information and a five-day forecast ",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://andersonasprilla.github.io/Weather-Dashboard/",
+      "source": "https://github.com/andersonasprilla/Weather-Dashboard"
+    }
+  ]
+  
