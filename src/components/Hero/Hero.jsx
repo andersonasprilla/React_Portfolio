@@ -9,10 +9,10 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Anderson Asprilla</h1>
         <p className={styles.description}>
-        A two-time Fixed Operations Salesperson of the Year (2022, 2023) at an Automotive Dealer company, I've enhanced operational efficiency and customer satisfaction through innovative technology. My custom-developed app revolutionized our sales process by seamlessly integrating customer data and special order tracking, significantly boosting customer satisfaction.
+        The CEO of <a href="https://www.dsxpert.com" >dsxpert.com</a> and a two-time consecutive Fixed Operations Salesperson of the Year at an Automotive Dealer company, I have driven significant enhancements in operational efficiency and customer satisfaction through innovative technology. My <a href="https://www.dsxpert.com">custom-developed app</a> has revolutionized our sales process by seamlessly integrating customer data and special order tracking, thereby significantly boosting customer satisfaction.
         </p>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
-          Contact Me
+          Resume
         </a>
       </div>
       <img
