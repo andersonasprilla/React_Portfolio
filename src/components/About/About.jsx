@@ -19,7 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-              As a frontend developer, I specialize in building interactive and visually engaging websites that ensure a seamless user experience.
+              I specialize in creating dynamic and user-friendly web applications using React. . My approach integrates responsive design principles and modern JavaScript frameworks to deliver seamless user experiences. 
               </p>
             </div>
           </li>
@@ -28,7 +28,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-              I specialize in backend development, focusing on crafting robust and scalable server-side applications. 
+              Experience in building robust and scalable web applications using Node.js. My expertise includes working with Express.js to streamline the development of server-side applications and integrating databases like MongoDB and PostgreSQL 
               </p>
             </div>
           </li>
@@ -37,7 +37,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UI Designer</h3>
               <p>
-              As a UI designer, I excel in creating intuitive and visually appealing user interfaces that enhance user experience. 
+              I specialize in crafting visually appealing and user-centered interfaces.My proficiency in Figma enables me to create high-fidelity prototypes and dynamic design systems that ensure consistency and scalability across all platforms.
               </p>
             </div>
           </li>
