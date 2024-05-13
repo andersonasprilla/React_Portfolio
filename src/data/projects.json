@@ -4,7 +4,7 @@
       "imageSrc": "projects/autoAidTracker.png",
       "description": "simplify the way service centers interact with their clients ",
       "skills": ["React", "Express", "Node"],
-      "demo": "https://autoaid-tracker-2e1109042824.herokuapp.com/dashboard",
+      "demo": "https://auto-aid-tracker-fd8d336132ae.herokuapp.com/",
       "source": "https://github.com/andersonasprilla/Car-Service-CRM"
     },
     {
