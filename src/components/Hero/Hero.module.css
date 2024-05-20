@@ -125,4 +125,21 @@ a:active {
   .content {
     align-items: center;
   }
+  .heroImg {
+    width: 80%;
+    
+  }
+  .title {
+    margin: 50px 0;
+    font-size: 40px;
+  }
+  
+  .description {
+    text-align: center; 
+    font-size: 20px;
+    margin: 20px 0;
+  }
+  .contactBtn {
+    display: none;
+  }
 }
