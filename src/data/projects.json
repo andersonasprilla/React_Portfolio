@@ -1,11 +1,11 @@
 [
     {
-      "title": "AutoAid Tracker",
-      "imageSrc": "projects/autoAidTracker.png",
+      "title": "Dealer Management System",
+      "imageSrc": "projects/dsxpert.png",
       "description": "simplify the way service centers interact with their clients ",
       "skills": ["React", "Express", "Node"],
-      "demo": "https://auto-aid-tracker-fd8d336132ae.herokuapp.com/",
-      "source": "https://github.com/andersonasprilla/Car-Service-CRM"
+      "demo": "https://dsxpert.com",
+      "source": "https://github.com/andersonasprilla/DealerServiceXpert-V2"
     },
     {
       "title": "Soccer Stadium Finder",

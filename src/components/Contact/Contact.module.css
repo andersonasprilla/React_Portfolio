@@ -61,4 +61,13 @@
   .links {
     align-items: center;
   }
+
+  .text p {
+    text-align: center;
+  }
+
+  .link a {
+    font-size: 18px;
+  }
+
 }
